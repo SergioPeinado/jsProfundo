@@ -35,3 +35,7 @@ for (var color in redDivs){
     }
 }
 console.log(redDivs);
+
+// Query selecto
+var id = document.querySelector("#encabezado");
+console.log(id);
